@@ -1,0 +1,101 @@
+
+{
+  "casos": [
+    {
+      "id": "INC-001",
+      "system": "portal_acceso",
+      "eventos": [
+        {
+          "timestamp": "2026-10-15T08:41:00",
+          "user": "ana",
+          "ip": "198.51.100.10",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T08:42:00",
+          "user": "ana",
+          "ip": "198.51.100.10",
+          "event": "LOGIN_SUCCESS"
+        }
+      ]
+    },
+    {
+      "id": "INC-002",
+      "system": "portal_acceso",
+      "eventos": [
+        {
+          "timestamp": "2026-10-15T02:10:00",
+          "user": "admin",
+          "ip": "203.0.113.25",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T02:11:00",
+          "user": "admin",
+          "ip": "203.0.113.25",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T02:12:00",
+          "user": "admin",
+          "ip": "203.0.113.25",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T02:13:00",
+          "user": "admin",
+          "ip": "203.0.113.25",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T02:14:00",
+          "user": "admin",
+          "ip": "203.0.113.25",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T02:15:00",
+          "user": "admin",
+          "ip": "203.0.113.25",
+          "event": "LOGIN_FAILED"
+        }
+      ]
+    },
+    {
+      "id": "INC-003",
+      "system": "panel_administracion",
+      "eventos": [
+        {
+          "timestamp": "2026-10-15T03:00:00",
+          "user": "admin",
+          "ip": "192.0.2.50",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T03:01:00",
+          "user": "admin",
+          "ip": "192.0.2.50",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T03:02:00",
+          "user": "admin",
+          "ip": "192.0.2.50",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T03:03:00",
+          "user": "admin",
+          "ip": "192.0.2.50",
+          "event": "LOGIN_FAILED"
+        },
+        {
+          "timestamp": "2026-10-15T03:04:00",
+          "user": "admin",
+          "ip": "192.0.2.50",
+          "event": "LOGIN_SUCCESS"
+        }
+      ]
+    }
+  ]
+}

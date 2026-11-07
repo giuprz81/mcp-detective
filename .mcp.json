@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mcp-detective": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        ".",
+        "run",
+        "mcp",
+        "run",
+        "server.py"
+      ]
+    }
+  }
+}
